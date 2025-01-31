@@ -20,7 +20,7 @@ You have the option to choose from multiple model versions based on size. The 7B
 ollama run deepseek-r1:7b
 ```
 
-For other model versions, please refer to the [Deepseek R1 Documentation](https://deepseek.ai/docs).
+For other model versions, please refer to the [Deepseek R1 Documentation](https://api-docs.deepseek.com/).
 
 ### Step 3: Wait for Ollama to Download & Install the Model
 Ollama will download and set up the model, which may take some time depending on your internet speed.
@@ -65,6 +65,6 @@ If you restart your computer, follow these steps to get the model and UI running
 4. Enjoy using Deepseek R1 locally on your computer!
 
 ### Tip
-If you're interested in using a different model version, check out the [Deepseek R1 Library](https://deepseek.ai/models) for available options.
+If you're interested in using a different model version, check out the [Deepseek R1 Library]([https://deepseek.ai/models](https://api-docs.deepseek.com/quick_start/pricing)) for available options.
 
 Now you have Deepseek R1 running locally with a web UI!
